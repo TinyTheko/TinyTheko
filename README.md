@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I am Karabo Theko, a Computer Science and Statistics student 🎓 with a strong passion for coding, robotics 🤖, and education 📚. I serve as the Program Coordinator of the United Siyafunda STEAM Lab program at AFRIMAGINEERING, an NGO that focuses on AI in Education across Lesotho 🌍. My work involves expanding access to technology education by training teachers and students in coding and robotics 💡. I also teach Python online 🖥️, mentor LGCSE students preparing for supplementary exams ✍️, and actively engage in professional development through MOOCs and training programs 📖. As an aspiring software engineer 💻, I am continuously building my skills and experience in the field.</p>
+<p align="left">I am Karabo Tiny Theko, a Computer Science and Statistics student 🎓 with a strong passion for coding, robotics 🤖, and education 📚. I serve as the Program Coordinator of the United Siyafunda STEAM Lab program at AFRIMAGINEERING, an NGO that focuses on AI in Education across Lesotho 🌍. My work involves expanding access to technology education by training teachers and students in coding and robotics 💡. I also teach Python online 🖥️, mentor LGCSE students preparing for supplementary exams ✍️, and actively engage in professional development through MOOCs and training programs 📖. As an aspiring software engineer 💻, I am continuously building my skills and experience in the field.</p>
 
 ###
 
